@@ -29,8 +29,8 @@
       Atualmente, divido meu tempo entre o desenvolvimento full stack na <b>RGM Tecnologia</b> e a construção de duas grandes frentes: o <b>SUAPIA</b> (assistente virtual acadêmico com Corrective RAG) e o <b>GESTHAR</b> (sistema ERP/PDV). Meu ecossistema técnico gira em torno de <b>React, Node.js, Python (FastAPI), Docker</b> e a orquestração de LLMs e Inteligência Artificial.<br><br>
     </td>
     <td align="center" valign="middle" width="30%">
-      <a href="https://github.com/frjunioalves">
-        <img src="https://github.com/frjunioalves.png" width="220" style="border-radius: 12px;" alt="Minha Foto de Perfil"/>
+      <a href="https://postimg.cc/1VR7fWyn">
+        <img src="https://i.postimg.cc/6qnkbSS0/download-(7).jpg" width="220" style="border-radius: 12px;" alt="Minha Foto de Perfil"/>
       </a>
     </td>
   </tr>
